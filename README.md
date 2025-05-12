@@ -1,4 +1,4 @@
-# emation-detection
+
 # 😄 Facial and Voice Emotion Detection using Deep Learning 🎙️
 
 This project integrates **computer vision** and **audio signal processing** to detect human emotions from both **facial expressions** and **voice input**. It uses pre-trained deep learning models and open-source libraries to analyze user-uploaded media and identify emotional states.
