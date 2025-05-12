@@ -58,11 +58,6 @@ This project integrates **computer vision** and **audio signal processing** to d
 
 ---
 
-## 📷 Example Use
-
-> You can add screenshots of an annotated image showing facial emotion detection and audio transcription results here.
-
----
 
 ## ⚠️ Note
 
@@ -77,16 +72,5 @@ This project integrates **computer vision** and **audio signal processing** to d
 - Add live webcam and microphone support.
 - Integrate with a real-time web interface using Streamlit or Flask.
 
----
-
-## 👩‍💻 Author
-
-**Dimple**  
-B.E. CSE | Naan Mudhalvan Project 2025  
-[LinkedIn Profile] (optional)
-
----
-
-## 📄 License
 
 This project is open-source and free to use for educational and non-commercial purposes.
